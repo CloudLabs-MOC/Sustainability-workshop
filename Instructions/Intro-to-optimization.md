@@ -31,7 +31,9 @@ Azure Carbon Optimization is a service designed to help you measure and reduce t
 
 
 ## How to Get Started
-   
+
+To start incorporating Azure carbon optimization into your personal and professional life:
+
 1. Educate Yourself:
 
    Explore Microsoft's resources on sustainability and cloud optimization to gain a thorough understanding of available tools and best practices.
