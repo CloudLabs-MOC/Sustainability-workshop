@@ -45,13 +45,11 @@ The primary objective of this lab is to enable participants to understand and im
 
    ![](../media/5.4.png)
 
-2. On the **Carbon optimization** page, observe the **Total carbon emissions**, **Carbon emissions for the last month** and also monthly emissions data in that subscription under **Emission Trends**
+1. On the **Carbon optimization** page, observe the **Total carbon emissions**, **Carbon emissions for the last month** and also monthly emissions data in that subscription under **Emission Trends**
 
    ![](../media/5.5.png)
 
-3. Observe the resource group emission contribution and trends.
-
-   ![](../media/5.6.png)
+1. Observe the resource group emission contribution and trends.
 
 1. In the emission details section, You can view emission details at the subscription, resource group, resource, service, and location levels on the emission details page.
 
@@ -115,13 +113,13 @@ In this task, you sign in to the Microsoft Cloud Solution Center and deploy the 
 
     ![](../media/report27.png)
 
-10. You will be navigated to **Emissions Impact Dashboard**.
+11. You will be navigated to **Emissions Impact Dashboard**.
 
       ![](../media/report26.png)
 
     You successfully installed the Emissions Impact Dashboard for Azure and Emissions Impact Dashboard for Microsoft 365 applications.
 
-11. The Emissions Impact Dashboard for Azure has multiple tabs that detail a range of metrics.
+12. The Emissions Impact Dashboard for Azure has multiple tabs that detail a range of metrics.
 
     ![](../media/report31.png)
     
