@@ -30,7 +30,6 @@ Azure Carbon Optimization is a service designed to help you measure and reduce t
   Receive optimization recommendations based on your resource utilization. These recommendations might include switching to more efficient SKUs or reducing idle or unused resources. You can also view the estimated carbon savings and cost implications of each recommendation.
 
 
-
 ## Getting Started with Sustainability
 
 To start incorporating Azure carbon optimization into your personal and professional life:
@@ -45,3 +44,5 @@ To start incorporating Azure carbon optimization into your personal and professi
 
 5. Monitor and Adjust: Continuously track your progress using the provided data and insights. Adjust your strategies as necessary to ensure you meet your sustainability goals effectively.
 By leveraging Azure Carbon Optimization, you can significantly enhance your organization's sustainability efforts, reduce costs, and position yourself as a leader in environmental responsibility.
+
+By embracing sustainability, you can contribute to a healthier planet, a fairer society, and a more prosperous future for all. Click on "Next" from the bottom right to start with the lab.
