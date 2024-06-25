@@ -180,10 +180,10 @@ In this task, you will verify the logs ingested from Dynamics 365 in the Sentine
 
 1. In the query pane, run the below query, to view the in detail logs for Dynamics 365 activities.
 
-```
-Dynamics365Activity
-
-```
+    ```
+    Dynamics365Activity
+    
+    ```
    ![Picture 1](../media/l9.7.png)   
 
   >**Note**: It might take upto **3hrs** to generate the activity logs. 
