@@ -156,7 +156,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
      ![](../media/new-img36.png)
     
-5.  Select **Scope 3** on the top tab to view the Scope 3 emissions dashboard. Scope 3 emissions are the result of activities from assets not owned or controlled by the reporting organization, but that the organization indirectly impacts its value chain. Scope 3 emissions include all sources not within an organization's scope 1 and 2 boundary. The **Scope 3 emissions** dashboard in Microsoft Sustainability Manager lets you view scope 3 emissions by reporting period.
+1.  Select **Scope 3** on the top tab to view the Scope 3 emissions dashboard. Scope 3 emissions are the result of activities from assets not owned or controlled by the reporting organization, but that the organization indirectly impacts its value chain. Scope 3 emissions include all sources not within an organization's scope 1 and 2 boundary. The **Scope 3 emissions** dashboard in Microsoft Sustainability Manager lets you view scope 3 emissions by reporting period.
 
     (1) Summary statistics can be viewed in the left tile. These statistics include the total scope 3 emissions for the reporting period compared to the previous period. The tile also shows all categories of scope 3 emissions classified as either upstream or downstream. Scope 3 emissions have the following fifteen categories.
 
@@ -193,7 +193,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
     (4)The bottom-right tile has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows scope 3 emissions for the corresponding delineation of data.
 
-6.  Select **Renewable energy** on the top tab to view the summary view of renewable energy, its sources, and the contract type.
+1.  Select **Renewable energy** on the top tab to view the summary view of renewable energy, its sources, and the contract type.
 
     (1) The summary statistics can be viewed in the left tile. These statistics include renewable energy as a total percentage of energy that was used for the selected reporting period compared to the previous period. The tile also shows the percentage of renewable energy by source type, such as solar, wind, and water.
 
@@ -203,7 +203,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
     (4) The bottom-right tile has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows renewable energy for the corresponding delineation of data.
 
-7.  Select **Deep analysis** on the top tab to dive deeper into data and uncover insights that might not be available from other reports. The dashboard can be filtered by selecting a reporting period and accounting method.
+1.  Select **Deep analysis** on the top tab to dive deeper into data and uncover insights that might not be available from other reports. The dashboard can be filtered by selecting a reporting period and accounting method.
 
     The **Decomposition tree** can be used to drill down from the company-level to more granular levels of the organization, and to access:
 
@@ -215,19 +215,15 @@ In this task, we will explores the various **Sustainability** dashboards which p
     -  Different levels of scope 1, scope 2, and scope 3 emissions.
     -  Facility
 
-8.  We drills into our decomposition tree to identify where our high sources of emissions are. Select the **+** next to **Total emissions**, and select **Scope**. (Images may not match displayed data.)
+1.  We drills into our decomposition tree to identify where our high sources of emissions are. Select the **+** next to **Total emissions**, and select **Scope**. (Images may not match displayed data.)
 
-9.  We can see which scope has the largest volume of emissions. Select the **+** next to **Scope 2**, and select **Emission source** to identify which Scope 2 emission source is biggest contributor.
+1.  We can see which scope has the largest volume of emissions. Select the **+** next to **Scope 2**, and select **Oraganization**.
 
-10.  It seems that Purchased electricity was the biggest contributor of emissions. Select the **+** next to **Purchased electricity** and select **Country/region** to identify which regions were contributing to the large Purchased electricity emissions.
+1.  It seems that Purchased electricity was the biggest contributor of emissions. Select the **+** next to **Wide World Importers** and select **Country/region** to identify which regions were contributing to the large Purchased electricity emissions.
 
-11.  The USA contributed the most to the Purchased Electricity emissions. The Country/Region selection is driven by the country region mapping table found in the Settings area. Select the **+** next to **USA** and select **Organization** to see which organizations contributed to this.
+1. In further filtering we see the Wide World Importers under Org level 3. Use this information to create a goal for Wide World Importers to reduce their Purchased electricity emissions by 300 mtCO2E (you'll complete this task in the next exercise).
 
-12.  You can see the organizations with the largest to lowest contributor to Contoso Corp’s carbon emissions
-
-13. In further filtering we see the Wide World Importers under Org level 3. Use this information to create a goal for Wide World Importers to reduce their Purchased electricity emissions by 300 mtCO2E (you'll complete this task in the next exercise).
-
-16.	Select **Custom Dimensions** tab to view the emission analytics
+1.	Select **Custom Dimensions** tab to view the emission analytics
     - You can view a time chart of CO2E emissions broken by custom dimension strings. For example, compare emissions by vehicle size where Vehicle Size is a custom dimension with string value.
    	- Expand the tree view of total CO2E emissions and drill into each string custom dimension present in the data and view CO2E emissions by value.
    	- Explore the time chart of CO2E emissions intensity broken out by custom dimension strings, where the intensity denominator is a numeric custom dimension, you select. 
