@@ -204,7 +204,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
     (4) The bottom-right tile has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows renewable energy for the corresponding delineation of data.
 
 1.  Select **Deep analysis** on the top tab to dive deeper into data and uncover insights that might not be available from other reports. The dashboard can be filtered by selecting a reporting period and accounting method.
-
+     
     The **Decomposition tree** can be used to drill down from the company-level to more granular levels of the organization, and to access:
 
     -  High value
@@ -221,6 +221,8 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
 1.  It seems that Purchased electricity was the biggest contributor of emissions. Select the **+** next to **Wide World Importers** and select **Country/region** to identify which regions were contributing to the large Purchased electricity emissions.
 
+     ![](../media/new-img52.png) 
+   
 1. In further filtering we see the Wide World Importers under Org level 3. Use this information to create a goal for Wide World Importers to reduce their Purchased electricity emissions by 300 mtCO2E (you'll complete this task in the next exercise).
 
 1.	Select **Custom Dimensions** tab to view the emission analytics
