@@ -333,7 +333,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
       
       - Documentation reference - https://fueleconomy.gov/feg/byfuel/EV2022.shtml
 
-        ![image](../media/lab01-104.png)
+        ![image](../media/new-img53.png)
 
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
 
@@ -349,7 +349,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
    
  1. Select the plus (+) icon to add a new action to the calculation model.
  
-     ![image](../media/lab01-105.png)
+     ![image](../media/new-img54.png)
 
  1. Select Estimation factor on the list of Available actions.
 
@@ -357,7 +357,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
 
  1. A new action is added to the calculation model.
 
-    ![image](../media/lab01-107.png)
+    ![image](../media/new-img55.png)
 
      - You can use the Estimation factor action to create an estimated value for converting one unit type to another in a different unit group, such as converting night stays to 
     kilowatt-hours (kWh) used. This action is beneficial when it might be difficult to determine the exact amount of a given emission source that's used. In this exercise, the 
@@ -382,7 +382,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
    
     - Output variable name - kWhQuantity
 
-      ![image](../media/lab01-108.png)
+      ![image](../media/new-img56.png)
 
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
 
@@ -399,11 +399,10 @@ In this task, we will creates a new calculation model to calculate carbon emissi
   it doesn't make sense to select a factor mapping currently.
 
    - Use the Output variable name to name the output of the estimation factor calculation for use in actions further down the chain.
-
   
 1. Select the plus (+) icon to add a new action to the calculation model.
 
-     ![image](../media/lab01-109.png)
+     ![image](../media/new-img57.png)
 
 1. Select Report on the Available actions list.
 
@@ -411,7 +410,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
 
 1. A new action is added to the calculation model. Select that action to edit it.
 
-    ![image](../media/lab01-111.png)
+    ![image](../media/new-img58.png)
 
 1. Populate the Report Details pane with the following data and select Save to save the record.
 
@@ -425,7 +424,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
       
       - Emission factor - US Average
 
-     ![image](../media/lab01-112.png)
+     ![image](../media/new-img59.png)
     
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
 
@@ -439,11 +438,11 @@ In this task, we will creates a new calculation model to calculate carbon emissi
 
 11. Select the back arrow on the record to return to the list of calculation models.
 
-   The new calculation model should now appear in the list.
+     The new calculation model should now appear in the list.
 
-   ![image](../media/lab01-113.png)
-
-  You've now created a new calculation model. This calculation model includes an estimation factor, which allows you to calculate emissions in areas where you might not know 
+     ![image](../media/new-img60.png)
+ 
+    >**Note**: You've now created a new calculation model. This calculation model includes an estimation factor, which allows you to calculate emissions in areas where you might not know 
   the exact quantity of an emission source but still need to account for the carbon emissions. Calculation models are the instruction sets that Microsoft Cloud for 
   Sustainability uses to calculate emissions. Several calculation models are included with Microsoft Cloud for Sustainability based on EPA calculations. Occasionally, these 
   included models might not match your unique customer needs, so you need to create new models to provide custom calculations. Make sure that you review the included models to 
