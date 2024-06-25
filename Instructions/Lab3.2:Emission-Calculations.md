@@ -475,7 +475,7 @@ In this task, Alex creates a calculation profile for the electricity that Wide W
 
      - Select **Next**.
 
-       ![image](../media/lab01-76.png)
+       ![image](../media/new-img61.png)
 
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
       
