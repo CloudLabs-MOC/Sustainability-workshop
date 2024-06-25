@@ -49,13 +49,13 @@ The primary objective of this lab is to enable participants to understand and im
 
    ![](../media/5.5.png)
 
-3. Use filters to identify each individual resourge group emission contribution and trends.
+3. Observe the resource group emission contribution and trends.
 
    ![](../media/5.6.png)
 
 1. In the emission details section, You can view emission details at the subscription, resource group, resource, service, and location levels on the emission details page.
 
-   ![](../media/5.7.png)
+   ![](../media/5.712.png)
 
    ![](../media/5.8.png)
 
@@ -94,7 +94,7 @@ In this task, you sign in to the Microsoft Cloud Solution Center and deploy the 
 
    ![](../media/report22.png)
 
-6. Provide the name for your deployment, select the terms of service and then select **Next**.
+6. Leave the default name, select the terms of service and then select **Next**.
 
    ![](../media/report23.png)
 
@@ -108,10 +108,10 @@ In this task, you sign in to the Microsoft Cloud Solution Center and deploy the 
 
 9. Navigate to Microsoft PowerBI using the link below.
 
-```
- https://app.powerbi.com/home?experience=power-bi
-```
-10. select the **Apps** on the left navigation pane. You see the **Emissions Impact Dashboard for Azure** and select the Emissions Impact Dashboard for Azure listed on the Apps page.
+    ```
+     https://app.powerbi.com/home?experience=power-bi
+    ```
+10. Select the **Apps** on the left navigation pane. You see the **Emissions Impact Dashboard for Azure** and select the Emissions Impact Dashboard for Azure listed on the Apps page.
 
     ![](../media/report27.png)
 
