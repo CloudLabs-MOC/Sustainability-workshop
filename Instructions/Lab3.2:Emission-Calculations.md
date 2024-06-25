@@ -289,7 +289,7 @@ Take the opportunity to review some prebuilt models. They're excellent sources o
       
      - Emission factor - FRCC (FRCC All)
 
-       ![image](../media/lab01-74.png)
+        ![image](../media/new-img48.png)
 
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
 
