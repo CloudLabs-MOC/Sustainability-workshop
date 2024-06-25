@@ -68,29 +68,31 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
      ![](../media/new-img21.png) 
 
-
 1.  The page displays the **Emissions overview** dashboard, the dashboard is filtered by selecting a reporting period and accounting method. The top tile in the dashboard has four tabs: All emissions, By month (comparison), By scope, and By scope (line chart). The first, third, and fourth tabs have a toggle that is used to **Show a comparison by year**. When the toggle is off, data for the selected reporting period is shown in a monthly view. When the toggle is on, all available years are shown on a trend chart. The details around each of the tabs in the top tile are as follows:
 
-    -   (1) All emissions – This tab shows total emissions over time.
+    - All emissions – This tab shows total emissions over time.
   
-           ![](../media/new-img22.png) 
-    -   (2) By month - This tab shows a breakdown of emissions by month for the selected reporting period.
-  
-           ![](../media/new-img23.png) 
-  
-    -   (4) By scope (line chart) – This tab shows each scope as a separate line on one chart. Therefore, you can easily compare emissions by scope over time.
+       ![](../media/new-img22.png) 
 
-           ![](../media/new-img24.png) 
-    -   (5) The **By source and scope** tile at the bottom shows a further breakdown of data in each scope. It shows specific sources and their contribution to emissions overall.
+    -  By month - This tab shows a breakdown of emissions by month for the selected reporting period.
+  
+       ![](../media/new-img23.png) 
+  
+    -  By scope (line chart) – This tab shows each scope as a separate line on one chart. Therefore, you can easily compare emissions by scope over time.
 
-           ![](../media/new-img25.png)
+       ![](../media/new-img24.png) 
+
+     - The **By source and scope** tile at the bottom shows a further breakdown of data in each scope. It shows specific sources and their contribution to emissions overall.
+
+        ![](../media/new-img25.png)
     
-    -    (6) The tile at the bottom right has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows a breakdown of emissions by scope 1, scope 2, and scope 3.
+    -  The tile at the bottom right has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows a breakdown of emissions by scope 1, scope 2, and scope 3.
 
-          ![](../media/new-img26.png) 
-    -   (7) Select **Fiscal 2023** under **Filters : Reporting period** on the left side to explore the data. **Note**: The data in the image below may not match your data.
+        ![](../media/new-img26.png) 
 
-         ![](../media/new-img27.png) 
+    -  Select **Fiscal 2023** under **Filters : Reporting period** on the left side to explore the data. **Note**: The data in the image below may not match your data.
+
+       ![](../media/new-img27.png) 
 
 1.  Select **Scope 1** on the top tab to view the Scope 1 emissions dashboard. Unselect the **Fiscal 2023** under **Filters : Reporting period** on the left side to explore the data. Scope 1 emissions are emissions that are owned or directly controlled by the organization. Like the Emissions overview, the **Scope 1 emissions** dashboard lets users view scope 1 emissions by reporting period.
 
