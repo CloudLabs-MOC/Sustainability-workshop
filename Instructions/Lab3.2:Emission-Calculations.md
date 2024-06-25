@@ -257,7 +257,7 @@ Take the opportunity to review some prebuilt models. They're excellent sources o
       
 1. Select the plus (+) icon to add a new action to the calculation model.
 
-    ![image](../media/lab01-72.png)
+    ![image](../media/new-img47.png)
 
 1. Select Report on the Available actions screen.   
 
