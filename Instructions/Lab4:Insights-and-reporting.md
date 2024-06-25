@@ -83,7 +83,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
            ![](../media/new-img24.png) 
     -   (5) The **By source and scope** tile at the bottom shows a further breakdown of data in each scope. It shows specific sources and their contribution to emissions overall.
 
-            ![](../media/new-img25.png)
+           ![](../media/new-img25.png)
     
     -    (6) The tile at the bottom right has three tabs: **By country/region**, **By organizational unit**, and **By facility**. Each tab shows a breakdown of emissions by scope 1, scope 2, and scope 3.
 
@@ -94,7 +94,9 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
 1.  Select **Scope 1** on the top tab to view the Scope 1 emissions dashboard. Unselect the **Fiscal 2023** under **Filters : Reporting period** on the left side to explore the data. Scope 1 emissions are emissions that are owned or directly controlled by the organization. Like the Emissions overview, the **Scope 1 emissions** dashboard lets users view scope 1 emissions by reporting period.
 
-    (1) Summary statistics can be viewed in the left tile. These statistics include the total scope 1 emissions for the current reporting period compared to the previous period. They also include emissions by source type and emissions broken down by greenhouse emissions. Greenhouse emissions include the following gases:
+1. Here, we are deselecting Fiscal 2023 as we have not performed scope 1 emission in the lab. Therefore, we will be reviewing options with the help of sample data.
+
+   (1) Summary statistics can be viewed in the left tile. These statistics include the total scope 1 emissions for the current reporting period compared to the previous period. They also include emissions by source type and emissions broken down by greenhouse emissions. Greenhouse emissions include the following gases:
 
     -   **CO<sub>2</sub>** – Carbon dioxide
     -   **CH<sub>4</sub>** – Methane
