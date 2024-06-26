@@ -217,6 +217,8 @@ In this task, we will explores the various **Sustainability** dashboards which p
     -  Different levels of scope 1, scope 2, and scope 3 emissions.
     -  Facility
 
+1.  Unselect the Fiscal 2023 under Filters : Reporting period on the left side to explore the data.
+
 1.  We drill into our decomposition tree to identify where our high sources of emissions are. Select the **+** next to **Total emissions**, and select **Scope**. (Images may not match displayed data.)
 
 1.  We can see which scope has the largest volume of emissions. Select the **+** next to **Scope 2**, and select **Oraganization**.
@@ -247,9 +249,9 @@ In this task, we are detailing the features and functionalities of various dashb
 
 1. The Water insights dashboard in Microsoft Sustainability Manager provides you with a holistic view of your organization's water sustainability performance relative to the business. Based on the selected water transaction type, the tiles contain the following information about your organization:
 
- - Water revenue intensity (total water quantity/total revenue)
- - Water production intensity (total water quantity/total weight of products produced)
- - To open the Water insights dashboard in Sustainability Manager, select Analytics on the left navigation, and then select Water insights.
+   - Water revenue intensity (total water quantity/total revenue)
+   - Water production intensity (total water quantity/total weight of products produced)
+   - To open the Water insights dashboard in Sustainability Manager, select Analytics on the left navigation, and then select Water insights.
 
 1. Select the Water insights tab from the left navigation pane.
 
