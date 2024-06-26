@@ -150,7 +150,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
 
     ![](../media/new-img34.png) 
     
-    (2) The top tile has four tabs: **Scope 2 emissions**, **By month (comparison), **By source**, and **By source (line chart)**. The first, third, and fourth tabs have a toggle that is used to **Show a comparison by year**. When the toggle is off, data for the reporting period is shown in a monthly view. When the toggle is on, data is shown for all available reporting periods.
+    (2) The top tile has four tabs: **Scope 2 emissions**, **By month (comparison)**, **By source**, and **By source (line chart)**. The first, third, and fourth tabs have a toggle that is used to **Show a comparison by year**. When the toggle is off, data for the reporting period is shown in a monthly view. When the toggle is on, data is shown for all available reporting periods.
 
      ![](../media/new-img35.png) 
 
