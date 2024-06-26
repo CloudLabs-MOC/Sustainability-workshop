@@ -441,7 +441,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 
    - Use Status update method to specify how the status of the goal check-ins will be set. You can enter the Status update method manually or set it to update automatically. In this scenario, you'll set the status for goal check-ins automatically based on a set of rules. Select Automatic and then select +Set up status rules.
 
-      ![](../media/lab01-132.png)
+      ![](../media/t4.png)
     
    - Select **+ Add Rule** to start a new rule for the Status.
 
