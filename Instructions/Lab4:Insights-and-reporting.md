@@ -426,7 +426,8 @@ Scorecards and goals are manually updated or connected to data for automatic che
        - Value - Select **CO2E** from drop down.
        - Select **+ Add** > **Add row** then choose **Organizational unit** equals **Wide World Importers**.
        - Select **+ Add** > **Add row** then choose **Consumption end date** >  **Last x years** > **1**.
-       - At the top of the form, select **Calculate** for a preview of the data that would be used for the current value check-in. Copy this value. The value that's calculated might differ from what's shown in the following image.
+       - At the top of the form, select **Calculate** for a preview of the data that would be used for the current value check-in.
+       - Copy this value. The value that's calculated might differ from what's shown in the following image.
 
          ![](../media/lab01-129.png)
          ![](../media/new-img42.png) 
@@ -486,7 +487,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 
    - Update for - **Use today's date.**
 
-   - New value - The preview value that you copied from the Source of current value connection screen. In this scenario, that value is 179.
+   - New value - The preview value that you copied from the Source of current value connection screen. In this scenario, that value is 525.6.
 
    - Add note - Enter **First check-in** in the field.
 
@@ -500,7 +501,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
    
    ![](../media/new-img45.png) 
     
-  >**Note**: The following list provides descriptions Use Update for to identify what date the check-in was for. This date might be the current date or a date in the past. Use New value to specify the current value of the goal check-in. This value will be used on the Progress chart.
+    >**Note**: The following list provides descriptions Use Update for to identify what date the check-in was for. This date might be the current date or a date in the past. Use New value to specify the current value of the goal check-in. This value will be used on the Progress chart.
 
 
 ## Review
