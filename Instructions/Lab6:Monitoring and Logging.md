@@ -35,7 +35,7 @@ In this task, you will enable auditing and logging within the Microsoft Cloud fo
 
    ![image](../media/lab01-143.png)
 
-1. Expand **Audit and logs** then select **Audit settings**, under **Auditing** select check box next to **Start Auditing**, **Log access**  and **Read logs**.
+1. Expand **Audit and logs** then select **Audit settings**, under **Auditing** select check box next to **Start Auditing**, **Log access**  and **Read logs** and click on **Save** in the bottom right corner.
 
    ![image](../media/lab01-144.png)
 
