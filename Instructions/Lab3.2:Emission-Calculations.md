@@ -469,7 +469,7 @@ In this task, Alex creates a calculation profile for the electricity that Wide W
       
      - Activity data to include in calculation - Select **Add** > **Add row** and select **Organizational Unit** equals **Wide World Importers** then  select **Add** > **Add row** and **Quantity unit** equals **kWh**
       
-     - Calculation model - Select **Purchased Electricity: Contractual Instrument Based - 2022** from the dropdown list
+     - Calculation model - Select **Purchased Electricity: Contractual Instrument Based - 2023** from the dropdown list
       
      - Schedule - Select the **Automatically run this calculation when data is refreshed** checkbox
 
