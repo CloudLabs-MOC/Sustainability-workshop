@@ -369,6 +369,8 @@ In this exercise, Amber Rodriguez informs Jessie Irwin - Sustainability lead for
     - The **Group by** column headers that were selected. In this case, it is grouped by Country/Region, Regional group, Facility, Scope, Emissions source, and Activity type
     - The following emission metrics: **CO<sub>2</sub>**, **CH<sub>4</sub>**, **N<sub>2</sub>O**, **SF<sub>6</sub>**, **NF<sub>3</sub>**, **CO<sub>2</sub>E**, **HFCs**, **PFCs**, and **Other GHGs.**
 
+     >**Note:** If you are prompted to sign-in  in the Excel window, sign in using <inject key="AzureAdUserEmail"></inject> and <inject key="Password"></inject> to view the report.
+
 ## Task 5 :  Sustainability scorecards and goals
 
 Scorecards and Goals allow organizations to monitor progress against data-driven goals. They can help you curate sustainability metrics and track them against your company's key business objectives. After you’ve created a scorecard that includes some goals, you can periodically check on the scorecard’s progress and make required adjustments.
