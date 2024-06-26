@@ -568,7 +568,7 @@ In this task, Alex runs the newly created calculation profiles for the electrici
 
     - Select Run calculation on the command bar.
 
-      ![image](../media/lab01-119.png)
+      ![image](../media/t3.png)
    
 1. After several minutes (approximately six minutes), both calculation jobs should be completed. Select the Refresh button on the command bar to check the status of the calculation jobs. The two calculation profiles should now have a Status of Succeeded.
 
