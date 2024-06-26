@@ -69,7 +69,7 @@ In this task, you will install the Microsoft Entra ID data connector in Microsof
 
      ![Picture 1](../media/l9.1.png)
 
-1. Select **sentinelworkspace**.
+1. Select **sustainabilityworkspace**.
 
 1. Select the **Data Connectors(1)** under **Configuration** and select **Content hub(2)**.
 
