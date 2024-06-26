@@ -440,7 +440,7 @@ In this task, we will creates a new calculation model to calculate carbon emissi
 
      The new calculation model should now appear in the list.
 
-     ![image](../media/new-img60.png)
+     ![image](../media/t1.png)
  
     >**Note**: You've now created a new calculation model. This calculation model includes an estimation factor, which allows you to calculate emissions in areas where you might not know 
   the exact quantity of an emission source but still need to account for the carbon emissions. Calculation models are the instruction sets that Microsoft Cloud for 
