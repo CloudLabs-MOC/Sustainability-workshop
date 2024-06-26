@@ -83,17 +83,17 @@ In this task, we will import the Excel spreadsheet named Purchased electricity W
 
 1. On the **Connect to data source** under **Connection settings** provide following details.
 
-  - **Server** :  <inject key="SqlserverURL"></inject> **(1)**
-
-   - **Authentication Kind** : Basic **(2)**
-
-   - **Username** : SQLUSER **(3)**
-
-   - **Password** : **Password.1!!** **(4)**
-
-   - Select the checkbox next to **Use encrypted connection (5)**
-
-      ![image](../media/lab01-34.png)     
+     - **Server** :  <inject key="SqlserverURL"></inject> **(1)**
+   
+     - **Authentication Kind** : Basic **(2)**
+   
+     - **Username** : SQLUSER **(3)**
+   
+     - **Password** : **Password.1!!** **(4)**
+   
+     -  Select the checkbox next to **Use encrypted connection (5)**
+   
+         ![image](../media/lab01-34.png)     
 
 1. On the **Choose data** window expand **purchasedelectricity** and select **Purchase electricity wide world importer 2023** then click on **Transform data**.
 
@@ -208,7 +208,6 @@ In this task, we will imports the Excel spreadsheet provided by Alex, _Purchased
 
       ![image](../media/lab01-34.png)
      
-
 1. On the **Choose data** window expand **fleetvehicles** and select **Fleet vechicles Miles Driven Wide World Importers 2023** then click on **Transform data**.
 
       ![image](../media/new8.png)
