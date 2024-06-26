@@ -217,7 +217,7 @@ In this task, we will explores the various **Sustainability** dashboards which p
     -  Different levels of scope 1, scope 2, and scope 3 emissions.
     -  Facility
 
-1.  We drills into our decomposition tree to identify where our high sources of emissions are. Select the **+** next to **Total emissions**, and select **Scope**. (Images may not match displayed data.)
+1.  We drill into our decomposition tree to identify where our high sources of emissions are. Select the **+** next to **Total emissions**, and select **Scope**. (Images may not match displayed data.)
 
 1.  We can see which scope has the largest volume of emissions. Select the **+** next to **Scope 2**, and select **Oraganization**.
 
