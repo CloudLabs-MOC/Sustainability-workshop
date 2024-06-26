@@ -520,7 +520,7 @@ In this task, we will be creating a calculation profile for the miles driven by 
 
      - Activity data to include in calculation - Select **Add** > **Add row** and select **Organizational Unit** equals** Wide World Importers** and select **Add** > **Add row** **Quantity unit** equals **mile**.
 
-     - Calculation model - Select **Electric Vehicle Miles Driven - 2022** from the dropdown list
+     - Calculation model - Select **Electric Vehicle Miles Driven - 2023** from the dropdown list
 
      - Schedule - Select the **Automatically run this calculation when data is refreshed** checkbox
 
