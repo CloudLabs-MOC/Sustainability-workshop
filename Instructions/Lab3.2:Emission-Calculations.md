@@ -554,13 +554,13 @@ In this task, we will be creating a calculation profile for the miles driven by 
  
 In this task, Alex runs the newly created calculation profiles for the electricity that Wide World Importers purchased and for miles that Wide World Importers' fleet of electric vehicles drove. This task creates a calculation job that iterates over each activity data row that matches the calculation profile filter criteria. Additionally, it uses the calculation models that you created previously in this exercise to calculate the carbon emissions for each row. The results are placed in the emissions table, which Alex will review after the calculations are complete.
 
-1. To run the calculation profile for Purchased Electricity: Contractual Instrument Type 2022, complete the following steps:
+1. To run the calculation profile for Purchased Electricity: Contractual Instrument Type 2023, complete the following steps:
 
     - Select Purchased Electricity: Contractual Instrument Type 2023 in the list.
 
     - Select Run calculation on the command bar.
 
-       ![image](../media/lab01-118.png)
+       ![image](../media/t2.png)
       
 1. To run the calculation profile for Electric Vehicle Miles Driven 2023, follow these steps:
 
