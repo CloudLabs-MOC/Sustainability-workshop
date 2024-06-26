@@ -81,7 +81,6 @@ In this task, we will import the Excel spreadsheet named Purchased electricity W
 
     ![image](../media/lab01-38.png)
 
-
 1. On the **Connect to data source** under **Connection settings** provide following details.
 
   - **Server** :  <inject key="SqlserverURL"></inject> **(1)**
