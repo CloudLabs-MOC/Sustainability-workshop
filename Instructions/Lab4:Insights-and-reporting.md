@@ -422,16 +422,16 @@ Scorecards and goals are manually updated or connected to data for automatic che
   
     - On the **Set up connection: current value** blade, follow the below mentioned steps:
 
-       a) Select the check box next to **Track all carbon emissions**.
-       b) Value - Select **CO2E** from drop down.
-       c) Select **+ Add** > **Add row** then choose **Organizational unit** equals **Wide World Importers**.
-       d) Select **+ Add** > **Add row** then choose **Consumption end date** >  **Last x years** > **1**.
-       d) At the top of the form, select **Calculate** for a preview of the data that would be used for the current value check-in. Copy this value. The value that's calculated might differ from what's shown in the following image.
+       - Select the check box next to **Track all carbon emissions**.
+       - Value - Select **CO2E** from drop down.
+       - Select **+ Add** > **Add row** then choose **Organizational unit** equals **Wide World Importers**.
+       - Select **+ Add** > **Add row** then choose **Consumption end date** >  **Last x years** > **1**.
+       - At the top of the form, select **Calculate** for a preview of the data that would be used for the current value check-in. Copy this value. The value that's calculated might differ from what's shown in the following image.
 
          ![](../media/lab01-129.png)
          ![](../media/new-img42.png) 
 
-      e) Click on **Confirm** from the buttom of the page.
+      - Click on **Confirm** from the buttom of the page.
 
          ![](../media/new-img43.png) 
 
@@ -482,9 +482,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 
    ![](../media/lab01-138.png)
 
-1. A New check-in dialog will appear.
-
-  Populate the New check-in dialog with the following data:
+1. A New check-in dialog will appear.Populate the New check-in dialog with the following data:
 
    - Update for - **Use today's date.**
 
@@ -495,7 +493,6 @@ Scorecards and goals are manually updated or connected to data for automatic che
    - Click on **Save**
     
      ![](../media/new-img46.png) 
-
 
 1. Now, the Progress section should show as updated with the latest check-in value and status, as well its plot on the graph. Additionally, the History section should show the recently created check-in with the status automatically set based on the goal rules. Check-ins will be shown in the order of newest to oldest.    
 
