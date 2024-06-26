@@ -215,13 +215,13 @@ In this task, you'll assign specific roles and permissions to user, ensuring the
 
 1. Click on **+ Add Users** from the top-left menu bar. In the **Add user** window, search for and select **demouser2 test**, then click **Add**.
 
-    ![image](../media/lab01-26.png)
+    ![image](../media/lab01-26nn.png)
 
    >**Note**: To integrate users into the sustainability environment, they need to have a license. The user in question has the required license, which is why they were successfully added.
 
 1. Navigate to the Manage security roles blade and select both the **Basic User role** and the **Sustainability All - Reports - Full Access Role**. After selecting these roles, proceed to click on Save to confirm your selections.
 
-    ![image](../media/lab01-27.png)
+    ![image](../media/lab01-27nn.png)
 
     ![image](../media/lab01-(28).png)
 
@@ -231,7 +231,7 @@ In this task, you'll assign specific roles and permissions to user, ensuring the
 
 1. Review the list of user in sustainability manager
 
-   ![](../media/new-img18.png)
+   ![](../media/new-img18nn.png)
    
 ## Review
 
