@@ -198,42 +198,12 @@ In this task, we will be setting up the reporting years in Microsoft Sustainabil
 
 In this task, you'll assign specific roles and permissions to user, ensuring they have the appropriate access to Microsoft Sustainability Manager features necessary for their responsibilities. This ensures secure and efficient use of the platform.
 
-1. Open the InPrivate window and browse the below link to access the trial version of Microsoft Sustainability Manager.
-
-   ```
-    https://dynamics.microsoft.com/en-us/sustainability/sustainability/free-trial/
-   ```
-
-1. Please use the following credentials to start a free trial of Sustainability Manager for Alex Wilber.
-
-    - **Email/Username:** <inject key="User 01 UPN"></inject>
-    
-    - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-1. On the **Let's get started** page, enter the <inject key="AzureAdUserEmail"></inject> and select the checkbox and click on **Start your free trial**.
-
-   ![](../media/new-img14.png)
-
-1. When prompted provide - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-    ![](../media/new-img15.png)
-
-1. Click on **Ask later**.
-
-    ![](../media/new-img16.png)
-   
-1. Follow the on-screen guidance to provide the contact details and click on **Submit**.
-
-   ![](../media/new-img17.png)
-
-1. close the tab.
-
 1. In the Edge browser, navigate to https://admin.powerplatform.microsoft.com/ and log in with the following credentials:
 
     - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
     - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1. From the left navigation pane, select Environment and then Sustainability trail make sure to select sustainability account created by ODLUser.
+1. From the left navigation pane, select Environment and then select **Sustainability trail**.
 
      ![image](../media/lab01-23.png)
 
@@ -243,9 +213,11 @@ In this task, you'll assign specific roles and permissions to user, ensuring the
    
     ![image](../media/lab01-25.png)
 
-1. Click on **+ Add Users** from the top-left menu bar. In the **Add user** window, search for and select **Alex Wilber**, then click **Add**.
+1. Click on **+ Add Users** from the top-left menu bar. In the **Add user** window, search for and select **demouser2 test**, then click **Add**.
 
     ![image](../media/lab01-26.png)
+
+   >**Note**: To integrate users into the sustainability environment, they need to have a license. The user in question has the required license, which is why they were successfully added.
 
 1. Navigate to the Manage security roles blade and select both the **Basic User role** and the **Sustainability All - Reports - Full Access Role**. After selecting these roles, proceed to click on Save to confirm your selections.
 
