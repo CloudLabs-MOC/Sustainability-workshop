@@ -404,7 +404,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 
     - **Goal name** - **Reduce Scope 2 Emissions - 2024**
 
-    - **Owner** - ODL User
+    - **Owner** - Search and select <inject key="AzureAdUserEmail"></inject>
 
     - **Scorecard** - **Wide World Importers Reduction Plan - 2024**
 
