@@ -135,12 +135,9 @@ In this task, you will install the Dynamics 365 data connector in Microsoft Sent
 
      ![Picture 1](../media/l9.3.png)
 
-1. Search and select the **Dynamics 365 - Connector Only** connector.
+1. Search and select the **Dynamics 365 - Connector Only** connector and click on **Install**.
 
    ![Picture 1](../media/l9.4.png)
-
-1. Click on **Install**.
-
 
 ### Task 2: Set up the data connector to ingest logs to workspace
 
