@@ -23,7 +23,7 @@ In this lab, you will complete the following tasks:
 
 In this task, we will enrich the Excel spreadsheet Purchased electricity Wide World Importers 2023.xlsx by adding custom dimensions metadata for mapping before importing the data.
 
-1. From the left navigation pane select **Custom dimensions (1)** and navigate to the **Custom dimensions (2)** tab under **Data**, then click **+ New (3)** at the top right of the **Active Custom dimensions** page.
+1. Back in the Sustainability Manager portal, from the left navigation pane select **Custom dimensions (1)** and navigate to the **Custom dimensions (2)** tab under **Data**, then click **+ New (3)** at the top right of the **Active Custom dimensions** page.
 
    ![image](../media/lab01-29.png)
  
