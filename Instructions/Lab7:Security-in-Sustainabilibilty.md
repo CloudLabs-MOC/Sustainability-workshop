@@ -119,7 +119,7 @@ In this task, you will verify the logs ingested from Microsoft Entra ID in the S
 
    ![Picture 1](../media/l9.8.png)   
 
-  >**Note**: It might take upto **3hrs** to generate the activity logs.
+    >**Note**: It might take upto **3hrs** to generate the activity logs.
 
 # Excercise 3 - Ingest Logs from Dynamics365
 
@@ -175,17 +175,16 @@ In this task, you will verify the logs ingested from Dynamics 365 in the Sentine
 
    ![Picture 1](../media/l9.6.png)   
 
-  >**Note**: It might take upto **3hrs** to generate the activity logs.
+   >**Note**: It might take upto **3hrs** to generate the activity logs.
 
 1. In the query pane, run the below query, to view the in detail logs for Dynamics 365 activities.
 
     ```
     Dynamics365Activity
-    
     ```
    ![Picture 1](../media/l9.7.png)   
 
-  >**Note**: It might take upto **3hrs** to generate the activity logs. 
+    >**Note**: It might take upto **3hrs** to generate the activity logs. 
 
 ### Reference Link:
 https://learn.microsoft.com/en-us/industry/sustainability/security-overview
@@ -194,4 +193,4 @@ https://learn.microsoft.com/en-us/industry/sustainability/security-overview
 
 By completing these exercises, you have acquired practical skills in leveraging Microsoft Sentinel for security monitoring in alignment with sustainability objectives, ensuring proactive security measures and regulatory compliance within the organization.
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed the lab. 
