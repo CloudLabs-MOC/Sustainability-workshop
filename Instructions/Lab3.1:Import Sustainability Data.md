@@ -160,7 +160,7 @@ In this task, we will import the Excel spreadsheet named Purchased electricity W
 
     ![image](../media/lab01-49.png)
     
-1. Select Organization unit > **Wide World Importers** from the **Edit filters: Purchased energy** dialog.
+1. Click on the **Add** dropdown and choose **Add row** after that,select Organization unit > **Wide World Importers** from the **Edit filters: Purchased energy** dialog.
 
     ![image](../media/lab01-50.png)
     
@@ -273,7 +273,7 @@ In this task, we will imports the Excel spreadsheet provided by Alex, _Purchased
 
     ![image](../media/lab01-49.png)
     
-1. Select Organization unit > **Wide World Importers** from the **Edit filters: Purchased energy** dialog.
+1. Click on the **Add** dropdown and choose **Add row** after that,select Organization unit > **Wide World Importers** from the **Edit filters: Purchased energy** dialog.
 
     ![image](../media/lab01-50.png)
     
