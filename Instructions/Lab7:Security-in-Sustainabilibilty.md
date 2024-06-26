@@ -89,13 +89,15 @@ In this task, you will configure the Microsoft Entra ID data connector to ingest
 
 1. Search for and select the **Microsoft Entra ID** connector.
 
-1. In the details pane for the connector, select Open connector page.
+1. Click on the arrow to view  the details pane for the connector, and select **Open connector page**.
+
+   ![Picture 1](../media/t5.png)
 
 1. On the **Instructions** page, under configuration, select the required record types data to be collected and click on **Apply changes**
 
    ![Picture 1](../media/l9.9.png)
 
-  >**Note**: Wait for atleast 15 mins and proceed to next task.
+   >**Note**: Wait for atleast 15 mins and proceed to next task.
 
 ### Task 3: View data ingested into Microsoft Sentinel
 
