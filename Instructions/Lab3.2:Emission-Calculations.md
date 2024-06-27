@@ -674,7 +674,7 @@ In this task, Alex creates the allocation method details by importing an excel f
    
 1. In the Active Allocation Profile page, select the profile and select Run allocation for the profile created.
 
-    ![image](../media/lab01-95.png)
+    ![image](../media/new-img64.png)
     
 1. Refresh the page and select the Allocation profile to view the status of the calculation.
 
