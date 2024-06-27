@@ -155,3 +155,6 @@ In this task, you sign in to the Microsoft Cloud Solution Center and deploy the 
 
 ### Reference Link:
 https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-emissions-impact-dashboard?toc=%2Findustry%2Fsustainability%2Ftoc.json&bc=%2Findustry%2Fbreadcrumb%2Ftoc.json
+
+
+## You have successfully completed this lab. Proceed with the next lab.
