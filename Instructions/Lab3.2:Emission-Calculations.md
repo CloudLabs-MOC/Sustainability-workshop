@@ -572,7 +572,7 @@ In this task, Alex runs the newly created calculation profiles for the electrici
    
 1. After several minutes (approximately six minutes), both calculation jobs should be completed. Select the Refresh button on the command bar to check the status of the calculation jobs. The two calculation profiles should now have a Status of Succeeded.
 
-    ![image](../media/lab01-120.png)
+    ![image](../media/new-img63.png)
 
 1. Go to All emissions on the left side of the page under **Data** section.
 
