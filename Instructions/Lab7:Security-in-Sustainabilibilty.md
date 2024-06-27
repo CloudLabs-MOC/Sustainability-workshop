@@ -131,7 +131,7 @@ In this task, you will install the Dynamics 365 data connector in Microsoft Sent
 
      ![Picture 1](../media/l9.1.png)
 
-1. Select **sentinelworkspace**.
+1. Select **sustainabilityworkspace**.
 
 1. Select the **Data Connectors(1)** under **Configuration** and select **content hub(2)**.
 
