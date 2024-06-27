@@ -511,5 +511,4 @@ Scorecards and goals are manually updated or connected to data for automatic che
 During this lab we have completed sustainability tasks highlights effective tracking and reduction of emissions through comprehensive dashboards, reports, and goal-setting in Microsoft Sustainability Manager. These tools empower organizations like Contoso Corp to make data-driven decisions for achieving their sustainability objectives.
 
 
-## You have successfully completed the lab. Click on Next >>.
-
+## You have successfully completed this lab. Proceed with the next lab.
