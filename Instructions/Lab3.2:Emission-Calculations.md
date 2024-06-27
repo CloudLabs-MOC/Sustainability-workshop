@@ -646,7 +646,7 @@ In this task, Alex creates the allocation method details by importing an excel f
 
    - Start date : 1/1/2023.
 
-   - End date : 31/1/2023
+   - End date : 31/12/2023
 
      ![image](../media/lab01-89.png)
 
