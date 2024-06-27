@@ -57,4 +57,4 @@ In this task, you will review audit logs and summaries within the Microsoft Clou
 
 By following these steps, you will have successfully enabled monitoring and logging within Microsoft Cloud for Sustainability, reviewed audit summaries, and monitored user and admin activities.   
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed this lab. Proceed with the next lab.
