@@ -650,7 +650,7 @@ In this task, Alex creates the allocation method details by importing an excel f
 
      ![image](../media/lab01-89.png)
 
-     ![image](../media/lab01-90.png)
+     ![image](../media/new-img65.png)
 
 1. Under **Set up allocation type** sepcify the following details and click on **Next**.
 
