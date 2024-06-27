@@ -524,7 +524,7 @@ In this task, we will be creating a calculation profile for the miles driven by 
 
      - Schedule - Select the **Automatically run this calculation when data is refreshed** checkbox
 
-        ![image](../media/lab01-115.png)
+        ![image](../media/new-img62.png)
        
 1. The fields and their values are defined as follows (numbers corresponding to numerals in the ensuing screenshot):
 
