@@ -95,3 +95,5 @@ In this task, you will restore a system backup to ensure data recovery and conti
 - **Restoring Data:** You have restored system backups to ensure data recovery and continuity.
 
 By completing these exercises, you have gained practical skills in managing backups and restoring data in the Microsoft Power Platform, ensuring the protection and availability of sustainability-related data.
+
+## You have successfully completed this lab. Proceed with the next lab.
