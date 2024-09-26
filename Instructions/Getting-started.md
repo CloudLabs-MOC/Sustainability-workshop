@@ -1,4 +1,4 @@
-# Getting Started with Your Microsoft Sustainability Manager Workshop
+# Getting Started with Your Optimizing Carbon Footprint with Microsoft Sustainability Manager Workshop
  
 Microsoft Sustainability Manager is a comprehensive tool designed to help organizations manage and track their sustainability efforts, enabling them to achieve their environmental, social, and governance (ESG) goals. It provides robust features for data collection, analysis, and reporting, ensuring compliance and facilitating informed decision-making.
 
