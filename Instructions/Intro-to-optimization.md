@@ -1,4 +1,4 @@
-# Introduction to Azure carbon optimization
+# Introduction to Optimizing Carbon Footprint with Microsoft Sustainability Manager
 
 
 Azure Carbon Optimization is a service designed to help you measure and reduce the carbon impact of your Azure footprint. With this service, you can:
